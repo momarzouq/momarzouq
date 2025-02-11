@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm momarzouq</h1>
+<h1 align="center">Mohamed Marzouq</h1>
 <h3 align="center">A SoftWare Engineer | frontend developer</h3>
-<h4>Objective</h4>
-<h5>Seeking a Front-End Developer role in a dynamic and innovative company, where I can leverage my expertise in web development,  I aim to contribute effectively to team success while continuing to grow professionally and advance my skills in modern web technologies.</h5>
+<h3>Objective</h3>
+<h4>Seeking a Front-End Developer role in a dynamic and innovative company, where I can leverage my expertise in web development,  I aim to contribute effectively to team success while continuing to grow professionally and advance my skills in modern web technologies.</h4>
 - Projects I wored on Touresca https://touresca.vercel.app/
 
 - Projects I wored on Investment-Calculator https://investment-calculator-two-sigma.vercel.app/
