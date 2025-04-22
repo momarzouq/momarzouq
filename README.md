@@ -1,5 +1,5 @@
 <h1 align="center">Mohamed Marzouq</h1>
-<h3 align="center">SoftWare Engineer | frontend developer</h3>
+<h3 align="center">SoftWare Engineer</h3>
 <h3>Objective</h3>
 <h4>Seeking a Front-End Developer role in a dynamic and innovative company, where I can leverage my expertise in web development,  I aim to contribute effectively to team success while continuing to grow professionally and advance my skills in modern web technologies.</h4>
  - Projects I wored on Touresca https://touresca.vercel.app/
