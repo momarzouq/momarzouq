@@ -2,11 +2,10 @@
 <h3 align="center">SoftWare Engineer</h3>
 <h3>Objective</h3>
 <h4>Seeking a Front-End Developer role in a dynamic and innovative company, where I can leverage my expertise in web development,  I aim to contribute effectively to team success while continuing to grow professionally and advance my skills in modern web technologies.</h4>
- - Projects I wored on O2Mart https://https://o2-mart.vercel.app//
 
-- Projects I wored on Investment-Calculator https://investment-calculator-two-sigma.vercel.app/
+- Projects I wored on O2Mart https://https://o2-mart.vercel.app//
 
-- Projects I wored on Tic-Tac-Toe https://tic-tac-toe-sooty-one.vercel.app/
+- Projects I wored on Touresca https://https://touresca-hazel.vercel.app//
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
