@@ -3,7 +3,8 @@
 <h3>Objective</h3>
 <h4>Seeking a Front-End Developer role in a dynamic and innovative company, where I can leverage my expertise in web development,  I aim to contribute effectively to team success while continuing to grow professionally and advance my skills in modern web technologies.</h4>
 
-<h3>Education : Computer Science</h3>
+<h3>Education</h3>
+ <h4>Computer Science</h4>
 
 Projects I wored on O2Mart https://o2-mart.vercel.app
 
