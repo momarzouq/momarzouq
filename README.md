@@ -1,12 +1,13 @@
 <h1 align="center">Mohamed Marzouq</h1>
 <h3 align="center">SoftWare Engineer</h3>
-<h3>Education : Computer Science</h3>
 <h3>Objective</h3>
 <h4>Seeking a Front-End Developer role in a dynamic and innovative company, where I can leverage my expertise in web development,  I aim to contribute effectively to team success while continuing to grow professionally and advance my skills in modern web technologies.</h4>
 
-- Projects I wored on O2Mart https://o2-mart.vercel.app
+<h3>Education : Computer Science</h3>
 
-- Projects I wored on Touresca https://touresca-hazel.vercel.app
+Projects I wored on O2Mart https://o2-mart.vercel.app
+
+Projects I wored on Touresca https://touresca-hazel.vercel.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
