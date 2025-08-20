@@ -5,9 +5,9 @@
 
 <h3>Education : Computer Science</h3> 
 
-Projects I wored on O2Mart www.softdomi.com
+FullStack Website www.softdomi.com
 
-Projects I wored on Touresca https://touresca-hazel.vercel.app
+FullStack E-commerce Website https://zeyno-store.vercel.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
