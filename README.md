@@ -5,7 +5,7 @@
 
 <h3>Education : Computer Science</h3> 
 
-FullStack Website www.softdomi.com
+FullStack Software Company Website www.softdomi.com
 
 FullStack E-commerce Website https://zeyno-store.vercel.app
 
