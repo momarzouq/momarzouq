@@ -5,7 +5,7 @@
 
 <h3>Education : Computer Science</h3> 
 
-Projects I wored on O2Mart https://o2-mart.vercel.app
+Projects I wored on O2Mart www.softdomi.com
 
 Projects I wored on Touresca https://touresca-hazel.vercel.app
 
