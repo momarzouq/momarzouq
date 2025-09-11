@@ -1,7 +1,7 @@
 <h1 align="center">Mohamed Marzouq</h1>
 <h3 align="center">SoftWare Engineer</h3>
 <h3>Objective</h3>
-<h4>I’m a Full-Stack Developer specialized in React.js, Next.js, and Django, passionate about building modern, fast, and scalable web applications. Whether you need a frontend with a sleek UI/UX or a powerful backend with Django, I can deliver high-quality results that match your business goals.</h4>
+<h4>If you are looking for a developer to get your work done as quickly as possible and with high efficiency, I am a full-stack software engineer. I have worked on real projects and achieved excellent success with many people. If you have any question or problem, do not hesitate to contact me.</h4>
 
 <h3>Education : Computer Science</h3> 
 
