@@ -1,7 +1,7 @@
 <h1 align="center">Mohamed Marzouq</h1>
 <h3 align="center">SoftWare Engineer</h3>
 <h3>Objective</h3>
-<h4>If you are looking for a developer to get your work done as quickly as possible and with high efficiency, I am a full-stack software engineer. I have worked on real projects and achieved excellent success with many people. If you have any question or problem, do not hesitate to contact me.</h4>
+<h4>Software engineer specialized in React.js, Next.js, Django, Python, and JavaScript, Experienced in building  scalable web applications and collaborating in agile teams. Seeking a role where I can apply my technical expertise, contribute to product growth, and expand my knowledge of modern web technologies.</h4>
 
 <h3>Education : Computer Science</h3> 
 
