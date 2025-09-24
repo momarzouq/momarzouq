@@ -7,7 +7,7 @@
 
 FullStack Software Company Website www.softdomi.com
 
-FullStack E-commerce Website https://zadsouq.vercel.app
+FullStack E-commerce Website www.taqneen.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
