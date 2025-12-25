@@ -1,8 +1,7 @@
 <h1 align="center">Mohamed Marzouq</h1>
 <h3 align="center">SoftWare Engineer</h3>
 <h3>Objective</h3>
-<h4>Software engineer specialized in React.js, Next.js, Django, Python, and JavaScript, Experienced in building  scalable web applications and collaborating in agile teams. Seeking a role where I can apply my technical expertise, contribute to product growth, and expand my knowledge of modern web technologies.</h4>
-
+<h4>Software engineer specialized in Web Development
 <h3>Education : Computer Science</h3> 
 
 FullStack Software Company Website www.softdomi.com
