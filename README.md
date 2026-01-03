@@ -1,13 +1,6 @@
 <h1 align="center">Mohamed Marzouq</h1>
 <h3 align="center">SoftWare Engineer</h3>
-<h3>Objective</h3>
-<h4>Software engineer specialized in Web Development
 <h3>Education : Computer Science</h3> 
-
-FullStack Software Company Website www.softdomi.com
-
-FullStack E-commerce Website www.taqneen.com
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/momqrzouq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="momqrzouq" height="30" width="40" /></a>
