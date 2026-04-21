@@ -17,12 +17,12 @@ Software Engineer passionate about building reliable and scalable software solut
 
 ## 🛠️ Technical Stack
 
-### ⚙️ Backend
+###  Backend Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
 ![NestJS](https://img.shields.io/badge/NestJS-ea2845?style=for-the-badge&logo=nestjs)
 
-### 🎨 Frontend
+###  Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
