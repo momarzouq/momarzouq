@@ -1,3 +1,5 @@
+<h1 align="center">Mohamed Marzouq</h1>
+<h3 align="center">SoftWare Engineer</h3>
 ## 🚀 About Me
 
 Software Engineer passionate about building reliable and scalable software solutions. I enjoy solving real-world problems, learning new technologies, and continuously improving my skills.
@@ -16,7 +18,7 @@ Software Engineer passionate about building reliable and scalable software solut
 ## 🛠️ Technical Stack
 
 ### Backend
-Javascript • Laravel • Node.js  
+Javascript • Laravel • NestJs  
 
 ### Frontend
 React • Next.js • JavaScript • HTML • CSS • Tailwind  
