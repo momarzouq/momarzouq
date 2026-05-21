@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-Software Engineer passionate about building reliable and scalable software solutions. I enjoy solving real-world problems, learning new technologies, and continuously improving my skills.
+Frontend Engineer specializes in building scalable SaaS and ERP dashboard applications using React.js, Next.js, and TypeScript. Experienced in developing reusable component systems, complex forms, authentication flows, data-heavy interfaces, and frontend architecture focused on performance and maintainability.
 
 
 ## 💼 Professional Highlights
