@@ -2,9 +2,9 @@
 
 
 ## 🚀 About Me
+Software Engineer with 3+ years of experience in designing, developing, and deploying full-stack web and mobile applications. Skilled in building end-to-end solutions, from system architecture and backend development to frontend implementation and deployment on cloud and hosting platforms.
 
-Frontend Engineer specializes in building scalable SaaS and ERP dashboard applications using React.js, Next.js, and TypeScript. Experienced in developing reusable component systems, complex forms, authentication flows, data-heavy interfaces, and frontend architecture focused on performance and maintainability.
-
+Passionate about education and knowledge sharing, I create programming content that helps aspiring developers improve their technical skills and gain practical experience in software development.
 
 ## 💼 Professional Highlights
 
